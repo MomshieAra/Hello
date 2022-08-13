@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello World</title>
+</head>
+<body>
+
+<h1>Greetings from Canada</h1>
+<p>Hello Philippines! Can't wait to see you again! See you next year!</p>
+
+</body>
+</html>
